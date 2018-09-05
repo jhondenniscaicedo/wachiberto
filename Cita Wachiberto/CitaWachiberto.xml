@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pachucolandia>		
+	<Lugar nombre="Centro comercial: PachuMall">
+		<Cita>
+			<Persona id="1234" nombre="Wachiberto">
+				<Vestimenta>
+					<Camisa color="blanca"/>
+					<Pantalon color="negro"/>
+					<Zapatos color="negro"/>
+				</Vestimenta>
+			</Persona>
+			<Persona id="5678" nombre="Cleopatra">
+				<Vestimenta>
+					<Camisa color="rojo"/>
+					<Pantalon color="blanco"/>
+					<Zapatos color="plateado"/>
+				</Vestimenta>
+			</Persona>
+			<Escena id="1" nombre="Primera impresion">
+				<Acontecimiento>
+					Wachiberto divisa a lo lejos como Cleopatra baja las escaleras
+				</Acontecimiento>
+				<Acontecimiento>
+					Cleopatra da un paso en falso en la escalera eléctrica y se tropieza de forma sensual
+				</Acontecimiento>
+				<Acontecimiento>
+					Wachiberto toma una foto mientras se ríe
+				</Acontecimiento>
+			</Escena>
+			<Escena id="2" nombre="Bebida inesperada">
+				<Acontecimiento>
+					En medio de la comida Wachiberto hace un comentario gracioso
+				</Acontecimiento>
+				<Acontecimiento>
+					Cleopatra se ríe a carcajadas mientras la limonada que estaba tomando salía expulsada de su nariz y le cae en la cara a Wachiberto
+				</Acontecimiento>
+			</Escena>
+		</Cita>
+	</Lugar>
+</Pachucolandia>
